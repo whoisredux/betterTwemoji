@@ -1,0 +1,32 @@
+/* troll = trollface */
+[src^="/assets/20e874870eab5f5c6f8ad7c51146d868.svg"] {
+  content: url("https://cdn.discordapp.com/emojis/690075870995808326.png?size=128");
+}
+[style*="background-position: -680px -120px;"][style*='background-image: url("/assets/d218674f309bcbfbf56faf6074df6347.png");'] {
+  background-image: url("https://cdn.discordapp.com/emojis/690075870995808326.png?size=128") !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat;
+}
+
+/* hold back tears = old hold back tears */
+[src^="/assets/571a9318fd6af1875977d03256f23214.svg"] {
+  content: url("https://vendicated.github.io/random-files/face_holding_back_tears.svg");
+}
+[style*="background-position: -200px 0px;"][style*='background-image: url("/assets/d218674f309bcbfbf56faf6074df6347.png");'] {
+  background-image: url("https://vendicated.github.io/random-files/face_holding_back_tears.svg") !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat;
+}
+
+/* pleading = old pleading */
+[src^="/assets/e63c47fd56c7ed1e4552974baaef4b4e.svg"] {
+  content: url("https://vendicated.github.io/random-files/pleading_face.svg");
+}
+[style*="background-position: -200px -40px;"][style*='background-image: url("/assets/d218674f309bcbfbf56faf6074df6347.png");'] {
+  background-image: url("https://vendicated.github.io/random-files/pleading_face.svg") !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat;
+}
